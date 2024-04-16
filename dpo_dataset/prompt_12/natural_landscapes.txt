@@ -1,0 +1,23 @@
+Please open your mind based on the theme "Natural Landscapes: Includes terrain, bodies of water, weather phenomena, and natural scenes." paintings
+
+Here are five example descriptions for natural landscape images:
+
+1. A sprawling meadow under a twilight sky, where the last rays of the sun kiss the tips of wildflowers, creating a canvas of gold and purple hues.
+
+2. A majestic waterfall cascading down rugged cliffs, enveloped by a mist that dances in the air, surrounded by an ancient forest whispering the tales of nature.
+
+3. An endless desert, where golden dunes rise and fall like waves in an ocean of sand, punctuated by the occasional resilient cactus standing as a testament to life's perseverance.
+
+4. A serene lake, mirror-like, reflecting the perfect image of surrounding snow-capped mountains, while a solitary swan glides gracefully, leaving ripples in its wake.
+
+5. The aurora borealis illuminating the polar sky in a symphony of greens and purples, arching over a silent, frozen landscape that sleeps under a blanket of snow.
+
+Please imitate the example above to generate a diverse image description and do not repeat the example above
+Each description aims to vividly convey the beauty and unique atmosphere of various natural landscapes.
+
+The format of your answer should be: 
+{
+    "descriptions":[...]
+}
+
+Ensure that the response can be parsed by json.loads in Python, for example: no trailing commas, no single quotes, and so on.

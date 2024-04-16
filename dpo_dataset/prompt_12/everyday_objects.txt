@@ -1,0 +1,23 @@
+Please open your mind based on the theme "Everyday Objects: Household items, office supplies, personal care products, furniture, decorative items." paintings
+
+Here are five creative and varied descriptions for the "Everyday Objects" category:
+
+1. "This image captures the simplicity and elegance of a handcrafted ceramic teapot, its smooth curves and subtle glaze reflecting the artistry of everyday functionality."
+
+2. "The picture shows an assortment of colorful, woven baskets, each with intricate patterns, showcasing the beauty of traditional craftsmanship in daily life."
+
+3. "This image features a vintage typewriter, its keys worn from years of storytelling, an embodiment of the charm and nostalgia of analog technology."
+
+4. "The picture depicts a modern home office setup, a sleek laptop open beside a neatly organized desk, a window framing the city beyond, merging work and life."
+
+5. "This image reveals a cozy reading nook, complete with a soft armchair, a stack of well-loved books, and a warm, inviting lamp, a personal retreat in the comfort of home."
+
+Please imitate the example above to generate a diverse image description and do not repeat the example above.
+Each description is crafted to highlight the unique beauty and essence of commonplace items in our everyday lives.
+
+The format of your answer should be: 
+{
+    "descriptions":[...]
+}
+
+Ensure that the response can be parsed by json.loads in Python, for example: no trailing commas, no single quotes, and so on.

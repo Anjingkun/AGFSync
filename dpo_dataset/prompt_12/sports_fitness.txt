@@ -1,0 +1,23 @@
+Please open your mind based on the theme "Sports and Fitness: Various sports, gym training, outdoor sports, and extreme sports." paintings
+
+Here are five creative and varied descriptions for the "Sports and Fitness" category:
+
+1. This image captures the intensity of a marathon, with a sea of determined runners advancing through the city streets, their faces a mixture of concentration and resolve.
+
+2. The picture shows an early morning yoga session on a tranquil beach, practitioners in perfect harmony with the rising sun, their silhouettes against the calming waves.
+
+3. This image features a climber ascending a sheer rock face, muscles tensed and eyes focused, set against a backdrop of stunning mountain scenery.
+
+4. The picture depicts a high-energy basketball game in progress, the moment of a skillful jump shot with the crowd roaring in anticipation.
+
+5. This image portrays a serene swimming scene, a lone swimmer cutting through the still waters of a lake, the ripples reflecting the soft hues of dawn."
+
+Please imitate the example above to generate a diverse image description and do not repeat the example above
+Each description is intended to capture the dynamic essence and atmosphere of different sports and fitness activities.
+
+The format of your answer should be: 
+{
+    "descriptions":[...]
+}
+
+Ensure that the response can be parsed by json.loads in Python, for example: no trailing commas, no single quotes, and so on.
